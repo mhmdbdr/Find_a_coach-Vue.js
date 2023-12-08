@@ -6,11 +6,13 @@ This project aims to connect users with coaches in various fields. Whether you'r
 
 ## Features
 
-**User Authentication:** Secure user authentication and authorization to protect user accounts and ensure a personalized experience.
+- **User Authentication:** Secure user authentication and authorization to protect user accounts and ensure a personalized experience.
 
-**Coach Registration:** Coaches can register and create profiles, providing information about their expertise, availability, and pricing.
+- **Coach Registration:** Coaches can register and create profiles, providing information about their expertise, availability, and pricing.
 
-**Filter Coaches by Category**: Users can filter coaches based on their category, making it easy to find coaches in specific fields.
+- **Filter Coaches by Category**: Users can filter coaches based on their category, making it easy to find coaches in specific fields.
+
+- **Messaging Coaches:** Users can send messages to coaches to inquire about their services, availability, or any other details.
 
 ## Technologies Used
 
