@@ -39,7 +39,7 @@ git clone https://github.com/your-username/e-commerce-vue-app.git
 2. Change into the project directory:
 
 ```
-cd e-commerce-vue-app
+cd Find_a_coach
 ```
 3. Install dependencies:
 
